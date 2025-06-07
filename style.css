@@ -1,0 +1,21 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0; padding: 0;
+}
+header, footer {
+    background-color: #004466;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+nav a {
+    margin: 0 10px;
+    color: white;
+    text-decoration: none;
+}
+.logo {
+    width: 150px;
+}
+table { margin: auto; }
+img { width: 250px; height: auto; }
